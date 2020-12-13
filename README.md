@@ -83,7 +83,7 @@ You can also add in operator buttons (buttons that allow users not familiar with
 
 ```javascript
 enableMathQuillFormulaAuthoring(quill, {
-  operators: [["\\sqrt[n]{x}", "\\nthroot"], ["\\frac{x}{y}","\\frac"]]
+  contentEditable: true,
 });
 ```
 
