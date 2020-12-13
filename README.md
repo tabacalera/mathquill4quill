@@ -9,7 +9,7 @@
 
 This module adds support for rich math authoring to the [Quill](http://quilljs.com/) editor.
 
-<img src="https://media.giphy.com/media/omrx0qURhFfYPFgrwv/giphy.gif" width="450" alt="Basic demo of mathquill4quill">
+<img src="https://media.giphy.com/media/4Xg73yzbkM2vee9X74/giphy.gif" width="450" alt="Basic demo of mathquill4quill">
 
 [Live demo](https://c-w.github.io/mathquill4quill/)
 
