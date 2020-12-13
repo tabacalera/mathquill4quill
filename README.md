@@ -105,7 +105,7 @@ enableMathQuillFormulaAuthoring(quill, {
 
 This works by saving formula to a list (and local storage by default) everytime a new formula is used. Then displaying this list when a user opens the formula tooltip.
 
-<img src="https://user-images.githubusercontent.com/31671215/75315157-c96b5200-5816-11ea-99c2-f5414ee8e241.gif" width="450" alt="Demo of mathquill4quill with formula history">
+<img src="https://media.giphy.com/media/4Xg73yzbkM2vee9X74/giphy.gif" width="450" alt="Demo of mathquill4quill with formula history">
 
 ### Autofocus
 
