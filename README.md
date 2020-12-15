@@ -1,4 +1,4 @@
-# MathQuill 4 Quill
+# MathQuill 4 Quill with Basic, Greek, and Advanced Tabs
 
 [![Build Status](https://clewolff.visualstudio.com/mathquill4quill/_apis/build/status/c-w.mathquill4quill?branchName=master)](https://clewolff.visualstudio.com/mathquill4quill/_build/latest?definitionId=5&branchName=master)
 [![Version](https://img.shields.io/npm/v/mathquill4quill.svg)](https://www.npmjs.com/package/mathquill4quill)
